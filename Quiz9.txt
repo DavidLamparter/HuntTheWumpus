@@ -1,0 +1,3 @@
+This is a text file we are using for Quiz9 (with permission of Jeremy).
+
+Putting course code on a public repo is bad!
